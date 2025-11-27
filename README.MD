@@ -1,12 +1,12 @@
+# setup git di proyek
 git init 
 git remote add origin https://github.com/alifharyanto/secret-uprak.git
-lalu tambahkan 1 file
-
+# lalu tambahkan 1 file
 git add .
 git commit -m "pesan"
 git push origin main
 
-check info
+# check info
 git status
 git remote -v
 
